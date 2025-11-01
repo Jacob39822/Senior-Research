@@ -1,1 +1,2 @@
-# Senior-Research
+# Comparing the execution times of Java Vs Python
+My project will be measuring the execution times of two different algorithms written as similarly as possible in both Java and Python. One algorithm will not use optimizations, and the other algorithm will use optimizations. The purpose of this research is to model which langauge will have a faster execution time, which will help programmers know which langauge to use for their projects that are speed dependent above all else. 
